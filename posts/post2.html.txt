@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Post Title Here</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <header>
+    <h1>The Rant Room</h1>
+    <p>Welcome to the loudest corner of my quiet time.</p>
+    <nav>
+      <a href="../index.html">← Back to Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <article class="blog-post">
+      <h2>Post Title Here</h2>
+      <p><em>Posted on July 17, 2025</em></p>
+
+      <p>Here’s where your blog content goes. Write paragraphs, poetry, dialogue, deep thoughts — whatever you like.</p>
+
+      <!-- Add as many paragraphs or sections as needed -->
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 The Rant Room</p>
+  </footer>
+</body>
+</html>

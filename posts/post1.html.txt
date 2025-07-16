@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Post Title</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Confessions in a Coma</h1>
+  </header>
+  <main>
+    <p>“So…what’s the difference between then and now?” he asks.</p>
+    <!-- Full post here -->
+  </main>
+</body>
+</html>
